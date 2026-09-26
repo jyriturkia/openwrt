@@ -3,3 +3,4 @@
 @GRUB_SERIAL@::askfirst:/usr/libexec/login.sh
 hvc0::askfirst:/usr/libexec/login.sh
 tty1::askfirst:/usr/libexec/login.sh
+ttyS4::askfirst:/usr/libexec/login.sh
